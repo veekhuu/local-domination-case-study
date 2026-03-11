@@ -1,6 +1,6 @@
 # How I Rebuilt a Construction Company Website in 3 Days With AI
 
-### 550+ Pages · ~$500 Total · 97/100 PageSpeed · Showing Up in ChatGPT
+### 550+ Pages · ~$500+ Total · 97/100 PageSpeed · Showing Up in ChatGPT
 
 ---
 
